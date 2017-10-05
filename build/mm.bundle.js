@@ -66192,8 +66192,9 @@ angular.module('mm.core')
     "wsextservice" : "local_mobile",
     "gcmpn": "694767596569",
     "customurlscheme": "moodlemobile",
-    "presets" : {"url": "http://leoneconnect.net/elearning", "username": ""},
-    "siteurl": "http://leoneconnect.net/elearning",
+    //"presets" : {"url": "http://leoneconnect.net/elearning", "username": ""},
+    //"siteurl": "http://leoneconnect.net/elearning",
+	"siteurl": "",
     "skipssoconfirmation": "false",
     "forcedefaultlanguage": "false",
     "privacypolicy": "https://moodle.org/mod/page/view.php?id=8148"
